@@ -1,16 +1,47 @@
-## Hi there 👋
+# Hi, I'm Riya Raj 👋
 
-<!--
-**riyaraj20062003-pixel/riyaraj20062003-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Computer Science Engineering Student | Aspiring Software Engineer
 
-Here are some ideas to get you started:
+I'm passionate about building software that solves real-world problems through scalable applications, AI, IoT, and modern web technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Currently Building
+
+**DevArena** — An AI-powered Developer Operating System designed to enhance developer productivity through intelligent workflows and automation.
+
+## 💻 Technical Skills
+
+**Languages**
+- C++
+- JavaScript
+
+**Frontend**
+- HTML
+- CSS
+- React
+
+**Tools & Technologies**
+- Git
+- GitHub
+
+**Currently Learning**
+- React Ecosystem
+- Data Structures & Algorithms (C++)
+- Node.js
+- System Design Fundamentals
+
+## 📂 Featured Projects
+
+- 🚀 **DevArena** — AI-powered Developer Operating System
+- 🏥 **Swasth Setu** — Smart Healthcare Platform
+- 🛒 **CampusBazaar** — Student Marketplace
+- 🤖 **Gesture-Controlled Robotic Arm with Digital Twin**
+
+
+---
+
+### 📫 Connect with Me
+
+- LinkedIn: *(https://www.linkedin.com/in/riya-a62989334/)*
+- Email: *(riyaraj20062003@gmail.com)*
+
+> *"Learning, building, and improving—one project at a time."*
